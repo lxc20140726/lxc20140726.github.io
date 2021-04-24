@@ -26,15 +26,11 @@
 				<header id="header">
 					<a href="index.html" class="logo"><strong>欢迎来到我的个人主页</strong> template provided by HTML5 UP</a>
 					<ul class="icons">
-						<li><a href="https://twitter.com/FredButcher19" class="icon brands fa-twitter"><span
-									class="label">Twitter</span></a></li>
-						<li><a href="https://weibo.com/6506969458/profile?topnav=1&wvr=6" class="fab fa-weibo"></i><span
-									class="label">微博</span></a></li>
-						<li><a href="https://www.instagram.com/include_.studio.h/"
-								class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="https://store.steampowered.com/" class="fab fa-steam"><span
-									class="label">Steam</span></a></li>
-
+						<li><a href="https://twitter.com/FredButcher19" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+						<li><a href="https://www.instagram.com/include_.studio.h/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
 					</ul>
 				</header>
 
@@ -255,13 +251,16 @@
 				<!-- Section -->
 				<section>
 					<header class="major">
-						<h2>联系方式</h2>
+						<h2>Get in touch</h2>
 					</header>
-					<p>如若对该网站或其内容等有疑问，bug等，请联系站主</p>
+					<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem
+						ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat
+						tempus aliquam.</p>
 					<ul class="contact">
-						<li class="icon solid fa-envelope"><a href="#">jcxx3627@126.com</a></li>
-						<li class="icon solid fa-phone">13818051736</li>
-						<li class="icon solid fa-home">陕西师范大学雁塔校区</li>
+						<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
+						<li class="icon solid fa-phone">(000) 000-0000</li>
+						<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
+							Nashville, TN 00000-0000</li>
 					</ul>
 				</section>
 
